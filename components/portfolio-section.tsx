@@ -6,7 +6,7 @@ const portfolioItems = [
     title: "AI-Powered Auto-Blogging System",
     description:
       "Built a comprehensive system that generates and publishes SEO-optimized content at scale, increasing organic traffic by 300%.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/ai-auto-blog.webp?height=300&width=400",
     tags: ["AI", "SEO", "Automation", "Content Marketing"],
   },
   {
