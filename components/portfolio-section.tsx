@@ -6,7 +6,7 @@ const portfolioItems = [
     title: "AI-Powered Auto-Blogging System",
     description:
       "Built a comprehensive system that generates and publishes SEO-optimized content at scale, increasing organic traffic by 300%.",
-    image: "/portfolio-1.jpg?height=300&width=400",
+    image: "/ai-auto-blog.webp?height=300&width=400",
     tags: ["AI", "SEO", "Automation", "Content Marketing"],
   },
   {
@@ -14,7 +14,7 @@ const portfolioItems = [
     title: "E-commerce Conversion Optimization",
     description:
       "Transformed underperforming landing pages, boosting conversion rates from 3% to 20%+ through data-driven UX improvements.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Conversion-rate.webp?height=300&width=400",
     tags: ["CRO", "UX Design", "Analytics", "A/B Testing"],
   },
   {
@@ -22,7 +22,7 @@ const portfolioItems = [
     title: "Malware Removal & Security Hardening",
     description:
       "Successfully removed 88,000+ phishing pages and restored SEO rankings after Google penalty, implementing robust security measures.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/gsc-phishing-pages-indexed.webp?height=300&width=400",
     tags: ["Cybersecurity", "SEO Recovery", "Server Administration"],
   },
 ]
@@ -46,7 +46,7 @@ export default function PortfolioSection() {
             >
               <div className="relative h-48 overflow-hidden">
                 <Image
-                  src={item.image || "/placeholder.svg"}
+                  src={item.image || "/ai-auto-blog.webp"}
                   alt={item.title}
                   fill
                   className="object-cover transition-transform duration-300 hover:scale-110"
