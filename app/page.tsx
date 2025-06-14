@@ -125,7 +125,7 @@ export default async function HomePage() {
                 <div className="relative">
                   <div className="w-48 h-48 sm:w-56 sm:h-56 lg:w-72 lg:h-72 rounded-full overflow-hidden shadow-2xl ring-4 ring-blue-300/30 bg-white/10 backdrop-blur-sm">
                     <Image
-                      src={profileImageUrl || "/placeholder.svg"}
+                      src={profileImageUrl || "/public/dianedacanay-profile-pic.webp"}
                       alt={`${content.name} - AI Tech Specialist`}
                       width={300}
                       height={300}
