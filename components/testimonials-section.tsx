@@ -4,27 +4,27 @@ import { Star } from "lucide-react"
 const testimonials = [
   {
     id: 1,
-    name: "Sarah Johnson",
-    role: "CEO, TechStart Inc.",
-    avatar: "/placeholder.svg?height=80&width=80",
+    name: "Mike Navitsky",
+    role: "CEO | BASTION LLC | USA",
+    avatar: "/mike-bastion.webp?height=80&width=80",
     content:
-      "Diane's expertise in AI and conversion optimization transformed our business. She increased our ROAS from 0.8x to over 5x in just 3 months. Her data-driven approach and technical skills are unmatched.",
+      "Diane's expertise in CRO and AI has transformed our business. She increased our ROAS from 0.8x to over 5x in just 3 months. Her data-driven approach and technical skills are unmatched.",
     rating: 5,
   },
   {
     id: 2,
-    name: "Michael Chen",
-    role: "Founder, E-commerce Solutions",
-    avatar: "/placeholder.svg?height=80&width=80",
+    name: "Clare Cribbin",
+    role: "Publisher | Finder.com.au | AUSTRALIA",
+    avatar: "/Clare_Cribbin.webp?height=80&width=80",
     content:
       "Working with Diane was a game-changer. She dropped our bounce rate from 80% to under 40% and completely revolutionized our user experience. Her attention to detail is incredible.",
     rating: 5,
   },
   {
     id: 3,
-    name: "Emily Rodriguez",
-    role: "Marketing Director, Digital Agency",
-    avatar: "/placeholder.svg?height=80&width=80",
+    name: "Gemma Henry",
+    role: "Content Lead | Bensons | United Kingdom",
+    avatar: "/gemma-henry.webp?height=80&width=80",
     content:
       "Diane's AI-powered auto-blogging system helped us scale our content production while maintaining quality. Her technical expertise combined with marketing insight is rare to find.",
     rating: 5,
