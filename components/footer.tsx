@@ -15,7 +15,7 @@ export default async function Footer() {
       <div className="max-w-6xl mx-auto text-center">
         <div className="mb-4">
           <Image
-            src={logoUrl || "/placeholder.svg"}
+            src={logoUrl || "/public/Diane-Dacanay-gold-logo.webp"}
             alt="Diane Dacanay Logo"
             width={120}
             height={60}
