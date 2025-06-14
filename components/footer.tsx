@@ -6,7 +6,7 @@ export default async function Footer() {
 
   const logoUrl = footerContent?.fields.logo?.fields.file?.url
     ? `https:${footerContent.fields.logo.fields.file.url}`
-    : "/placeholder.svg?height=60&width=120"
+    : "/Diane-Dacanay-gold-logo.webp?height=60&width=120"
 
   const copyrightText = footerContent?.fields.copyrightText || "© 2025 Diane Lim Dacanay. All rights reserved."
 
