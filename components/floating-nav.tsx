@@ -5,7 +5,7 @@ import { Menu, X, FileUp, Brush, Linkedin, Youtube, MessageCircle, Mail } from "
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
-const navItems = [
+const socialLinks = [
   {
     name: "Vision Board",
     href: "https://art.dianedacanay.com/",
@@ -16,9 +16,7 @@ const navItems = [
     href: "https://quiz-maker.dianedacanay.com/",
     icon: FileUp,
   },
-]
 
-const socialLinks = [
   {
     href: "https://www.linkedin.com/in/dianedacanay",
     icon: Linkedin,
