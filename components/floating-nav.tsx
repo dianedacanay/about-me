@@ -14,7 +14,7 @@ const navItems = [
   {
     name: "PDF to Quiz Maker",
     href: "https://quiz-maker.dianedacanay.com",
-    icon: PDF,
+    icon: FileUp,
   },
 ]
 
