@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Menu, X, pdf, brush, Linkedin, Youtube, MessageCircle, Mail } from "lucide-react"
+import { Menu, X, FileUp, Brush, Linkedin, Youtube, MessageCircle, Mail } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
@@ -9,12 +9,12 @@ const navItems = [
   {
     name: "Vision Board",
     href: "https://art.dianedacanay.com",
-    icon: brush,
+    icon: Brush,
   },
   {
     name: "PDF to Quiz Maker",
     href: "https://quiz-maker.dianedacanay.com",
-    icon: pdf,
+    icon: PDF,
   },
 ]
 
