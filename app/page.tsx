@@ -10,10 +10,10 @@ import TestimonialsSection from "@/components/testimonials-section"
 // Fallback data in case Contentful is unavailable
 const fallbackData = {
   name: "Diane Lim Dacanay",
-  jobTitle: "AI Tech Specialist | Ex-Finder.com | Seeker of Truth",
+  jobTitle: "AI Tech Specialist | Ex-Finder.com | Middle Path Advocate",
   bioParagraphs: [
     "With over 13 years of experience in the tech industry, I specialize in cPanel server administration, malware removal, landing page UX and speed optimization, turning UX data into real conversions, and creating AI-powered workflows.",
-    "I discovered my passion for business and e-commerce at the very young age of 5 — from selling ice cream and collectible cards to importing gadgets, dropshipping in the early days of Alibaba.com, and exploring affiliate marketing at Finder.com.au. Over the years, I've gained hands-on experience across a wide range of tech and business domains.",
+    "I discovered my passion for business and e-commerce at the very young age of 5 — from retail sales, importing gadgets to dropshipping in the early days of Alibaba.com, and exploring affiliate marketing at Finder.com.au. Over the years, I've gained hands-on experience across a wide range of tech and business domains.",
     "I launched my first website as a teenager during my college years. That's when I realized a hard truth: without traffic, accessible data, and a clear USP that solves real user problems, code becomes secondary. This realization sparked a deep dive — and a lifelong pursuit — into SEO, CRO, cybersecurity, and now, AI.",
   ],
   achievements: [
