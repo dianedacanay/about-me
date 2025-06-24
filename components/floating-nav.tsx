@@ -1,9 +1,22 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Menu, X, FileUp, Brush, Linkedin, Youtube, MessageCircle, Mail } from "lucide-react"
+import { Menu, X, User, FileUp, MessageSquare, Brush, Linkedin, Youtube, MessageCircle, Mail } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
+
+const navItems = [
+  {
+    name: "Portfolio",
+    href: "#portfolio",
+    icon: User,
+  },
+  {
+    name: "Testimonials",
+    href: "#testimonials",
+    icon: MessageSquare,
+  },
+ ]
 
 const socialLinks = [
   {
