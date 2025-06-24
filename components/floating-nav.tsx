@@ -7,14 +7,14 @@ import { cn } from "@/lib/utils"
 
 const navItems = [
   {
-    name: "Portfolio",
-    href: "#portfolio",
-    icon: User,
+    name: "Vision Board",
+    href: "https://art.dianedacanay.com",
+    icon: PaintBrush,
   },
   {
-    name: "Testimonials",
-    href: "#testimonials",
-    icon: MessageSquare,
+    name: "PDF to Quiz Maker",
+    href: "https://quiz-maker.dianedacanay.com",
+    icon: PDF,
   },
 ]
 
