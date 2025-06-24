@@ -20,14 +20,14 @@ const navItems = [
 
 const socialLinks = [
   {
-    name: "Vision Board",
     href: "https://art.dianedacanay.com/",
     icon: Brush,
+    label: "Vision Board",
   },
   {
-    name: "PDF to Quiz Maker",
     href: "https://quiz-maker.dianedacanay.com/",
     icon: FileUp,
+    label: "PDF to Quiz Maker",
   },
 
   {
