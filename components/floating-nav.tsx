@@ -9,7 +9,7 @@ const navItems = [
   {
     name: "Vision Board",
     href: "https://art.dianedacanay.com",
-    icon: PaintBrush,
+    icon: Brush,
   },
   {
     name: "PDF to Quiz Maker",
