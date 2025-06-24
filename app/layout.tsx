@@ -11,7 +11,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dianedacanay.com"),
+  metadataBase: new URL("https://www.dianedacanay.com"),
   title: {
     default: "Diane Lim Dacanay | AI Tech Specialist",
     template: "%s | Diane Lim Dacanay",
@@ -32,15 +32,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://dianedacanay.com",
+    url: "https://www.dianedacanay.com",
     siteName: "Diane Lim Dacanay",
     title: "Diane Lim Dacanay | AI Tech Specialist",
-    description: "AI Tech Specialist | Ex-Finder.com | Seeker of Truth",
+    description: "AI Tech Specialist | Ex-Finder.com | Middle Path Advocate",
   },
   twitter: {
     card: "summary_large_image",
     title: "Diane Lim Dacanay | AI Tech Specialist",
-    description: "AI Tech Specialist | Ex-Finder.com | Seeker of Truth",
+    description: "AI Tech Specialist | Ex-Finder.com | Middle Path Advocate",
   },
   robots: {
     index: true,
