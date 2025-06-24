@@ -8,12 +8,12 @@ import { cn } from "@/lib/utils"
 const navItems = [
   {
     name: "Vision Board",
-    href: "https://art.dianedacanay.com",
+    href: "https://art.dianedacanay.com/",
     icon: Brush,
   },
   {
     name: "PDF to Quiz Maker",
-    href: "https://quiz-maker.dianedacanay.com",
+    href: "https://quiz-maker.dianedacanay.com/",
     icon: FileUp,
   },
 ]
