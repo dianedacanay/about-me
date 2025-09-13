@@ -25,7 +25,7 @@ const socialLinks = [
     label: "Vision Board",
   },
   {
-    href: "https://quiz-maker.dianedacanay.com/",
+    href: "https://pdf2quiz.dianedacanay.com/",
     icon: FileUp,
     label: "PDF to Quiz Maker",
   },
