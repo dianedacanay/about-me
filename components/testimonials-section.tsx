@@ -5,7 +5,7 @@ const testimonials = [
   {
     id: 1,
     name: "Mike Navitsky",
-    role: "CEO | BASTION LLC | USA",
+    role: "CEO | BASTION | Slovenia",
     avatar: "/mike-bastion.webp?height=80&width=80",
     content:
       "Diane's expertise in CRO and AI has transformed our business. She increased our ROAS from 0.8x to over 5x in just 3 months. Her data-driven approach and technical skills are unmatched.",
@@ -14,7 +14,7 @@ const testimonials = [
   {
     id: 2,
     name: "Clare Cribbin",
-    role: "Publisher | Finder.com.au | AUSTRALIA",
+    role: "Publisher | Finder.com.au | Australia",
     avatar: "/Clare_Cribbin.webp?height=80&width=80",
     content:
       "Working with Diane was a game-changer. She dropped our bounce rate from 80% to under 40% and completely revolutionized our user experience. Her attention to detail is incredible.",
