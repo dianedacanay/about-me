@@ -62,7 +62,7 @@ const fallbackSocialLinks = [
     fields: {
       platform: "Website",
       url: "https://ai.dianedacanay.com",
-      label: "AI Prompt Builder",
+      label: "Latest Project - AI Prompt Builder",
       iconName: "www",
     },
   },
