@@ -16,13 +16,15 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.dianedacanay.com"),
   title: {
-    default: "Diane Lim Dacanay | AI Tech Specialist",
+    default: "Diane Lim Dacanay | AI UX Engineer",
     template: "%s | Diane Lim Dacanay",
   },
   description:
-    "AI Tech Specialist with 13+ years experience in cPanel server administration, malware removal, UX optimization, and AI-powered workflows.",
+    "AI UX Engineer with 13+ years experience in UX optimizations, data analytics, front-end development, cPanel server administration, malware removal, and AI-powered workflows.",
   keywords: [
-    "AI Tech Specialist",
+    "AI UX Engineer",
+    "UX Design",
+    "Data Analytics",
     "cPanel administration",
     "malware removal",
     "UX optimization",
@@ -37,13 +39,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://www.dianedacanay.com",
     siteName: "Diane Lim Dacanay",
-    title: "Diane Lim Dacanay | AI Tech Specialist",
-    description: "AI Tech Specialist | Ex-Finder.com | Middle Path Advocate",
+    title: "Diane Lim Dacanay | AI UX Engineer",
+    description: "AI UX Engineer | Ex-Finder.com | Google AI & UX Certified",
   },
   twitter: {
     card: "summary_large_image",
     title: "Diane Lim Dacanay | AI Tech Specialist",
-    description: "AI Tech Specialist | Ex-Finder.com | Middle Path Advocate",
+    description: "AI UX Engineer | Ex-Finder.com | Google AI & UX Certified",
   },
   robots: {
     index: true,
