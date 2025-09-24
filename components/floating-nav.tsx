@@ -35,9 +35,9 @@ const socialLinks = [
     label: "Email",
   },
   {
-    href: "https://ai.dianedacanay.com/",
-    icon: Bot,
-    label: "AI Prompt Builder",
+    href: "https://pdf2quiz.dianedacanay.com/",
+    icon: FileUp,
+    label: "PDF to Quiz Maker",
   },
   {
     href: "https://art.dianedacanay.com/",
@@ -45,9 +45,9 @@ const socialLinks = [
     label: "Vision Board",
   },
   {
-    href: "https://pdf2quiz.dianedacanay.com/",
-    icon: FileUp,
-    label: "PDF to Quiz Maker",
+    href: "https://ai.dianedacanay.com/",
+    icon: Bot,
+    label: "AI Prompt Builder",
   },
 ]
 
