@@ -45,7 +45,7 @@ const fallbackSocialLinks = [
       platform: "YouTube",
       url: "https://www.youtube.com/@diane.dacanay",
       label: "YouTube",
-      iconName: "youtube",
+      iconName: "Bot",
     },
   },
   {
