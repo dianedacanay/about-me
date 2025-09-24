@@ -71,10 +71,10 @@ const fallbackSocialLinks = [
 export async function generateMetadata(): Promise<Metadata> {
   const { seoSettings } = await getAllPortfolioData()
 
-  const title = seoSettings?.fields.metaTitle || "Diane Lim Dacanay | AI Tech Specialist"
+  const title = seoSettings?.fields.metaTitle || "Diane Lim Dacanay | AI UX Engineer"
   const description =
     seoSettings?.fields.metaDescription ||
-    "AI Tech Specialist with 13+ years experience in cPanel server administration, malware removal, UX optimization, and AI-powered workflows."
+    "AI UX Engineer with 13+ years experience in UX optimizations, data analytics, front-end development, cPanel server administration, malware removal, and AI-powered workflows."
 
   return {
     title,
@@ -109,7 +109,7 @@ export default async function HomePage() {
   const socialLinksData = socialLinks?.length > 0 ? socialLinks : fallbackSocialLinks
   const profileImageUrl = personalInfo?.fields.profileImage?.fields.file?.url
     ? `https:${personalInfo.fields.profileImage.fields.file.url}`
-    : "/dianedacanay-profile-pic.webp?height=300&width=300"
+    : "/diane_lim_dacanay.webp?height=300&width=300"
 
   return (
     <>
@@ -125,8 +125,8 @@ export default async function HomePage() {
                 <div className="relative">
                   <div className="w-48 h-48 sm:w-56 sm:h-56 lg:w-72 lg:h-72 rounded-full overflow-hidden shadow-2xl ring-4 ring-blue-300/30 bg-white/10 backdrop-blur-sm">
                     <Image
-                      src={profileImageUrl || "/diane_lim_dacanay.png"}
-                      alt={`${content.name} - AI Tech Specialist`}
+                      src={profileImageUrl || "/diane_lim_dacanay.webp"}
+                      alt={`${content.name} - AI UX Engineer`}
                       width={300}
                       height={300}
                       className="w-full h-full object-cover object-center"
