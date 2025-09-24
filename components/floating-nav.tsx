@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Menu, X, User, FileUp, MessageSquare, Brush, Linkedin, Youtube, MessageCircle, Mail } from "lucide-react"
+import { Menu, X, User, FileUp, MessageSquare, Brush, Linkedin, Youtube, MessageCircle, Mail, Bot } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
@@ -16,9 +16,11 @@ const navItems = [
     href: "#testimonials",
     icon: MessageSquare,
   },
- ]
-
-const socialLinks = [
+  {
+    href: "https://ai.dianedacanay.com/",
+    icon: Bot,
+    label: "AI Prompt Builder",
+  },
   {
     href: "https://art.dianedacanay.com/",
     icon: Brush,
@@ -30,6 +32,9 @@ const socialLinks = [
     label: "PDF to Quiz Maker",
   },
 
+ ]
+
+const socialLinks = [
   {
     href: "https://www.linkedin.com/in/dianedacanay",
     icon: Linkedin,
