@@ -16,6 +16,24 @@ const navItems = [
     href: "#testimonials",
     icon: MessageSquare,
   },
+ ]
+
+const socialLinks = [
+  {
+    href: "https://www.linkedin.com/in/dianedacanay",
+    icon: Linkedin,
+    label: "LinkedIn",
+  },
+  {
+    href: "https://wa.me/+639310780804?text=Hi%20there!",
+    icon: MessageCircle,
+    label: "WhatsApp",
+  },
+  {
+    href: "mailto:hello@dianedacanay.com",
+    icon: Mail,
+    label: "Email",
+  },
   {
     href: "https://ai.dianedacanay.com/",
     icon: Bot,
@@ -30,30 +48,6 @@ const navItems = [
     href: "https://pdf2quiz.dianedacanay.com/",
     icon: FileUp,
     label: "PDF to Quiz Maker",
-  },
-
- ]
-
-const socialLinks = [
-  {
-    href: "https://www.linkedin.com/in/dianedacanay",
-    icon: Linkedin,
-    label: "LinkedIn",
-  },
-  {
-    href: "https://www.youtube.com/@diane.dacanay",
-    icon: Youtube,
-    label: "YouTube",
-  },
-  {
-    href: "https://wa.me/+639310780804?text=Hi%20there!",
-    icon: MessageCircle,
-    label: "WhatsApp",
-  },
-  {
-    href: "mailto:hello@dianedacanay.com",
-    icon: Mail,
-    label: "Email",
   },
 ]
 
