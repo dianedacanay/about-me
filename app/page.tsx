@@ -40,15 +40,6 @@ const fallbackSocialLinks = [
     },
   },
   {
-    sys: { id: "2" },
-    fields: {
-      platform: "YouTube",
-      url: "https://www.youtube.com/@diane.dacanay",
-      label: "YouTube",
-      iconName: "Bot",
-    },
-  },
-  {
     sys: { id: "3" },
     fields: {
       platform: "WhatsApp",
@@ -64,6 +55,15 @@ const fallbackSocialLinks = [
       url: "mailto:hello@dianedacanay.com",
       label: "Email",
       iconName: "email",
+    },
+  },
+  {
+    sys: { id: "2" },
+    fields: {
+      platform: "Website",
+      url: "https://ai.dianedacanay.com",
+      label: "AI Prompt Builder",
+      iconName: "www",
     },
   },
 ]
