@@ -45,9 +45,9 @@ const socialLinks = [
     label: "Vision Board",
   },
   {
-    href: "https://ai.dianedacanay.com/",
+    href: "https://ai-artprompts.dianedacanay.com/",
     icon: Bot,
-    label: "AI Prompt Builder",
+    label: "AI ART Prompt Generator",
   },
 ]
 
