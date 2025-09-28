@@ -21,7 +21,7 @@ const portfolioItems = [
     id: 3,
     title: "Malware Removal & Security Hardening",
     description:
-      "Successfully removed 88,000+ phishing pages and restored SEO rankings after Google penalty, implementing robust security measures.",
+      "Successfully recovered hack site, removed 88,000+ indexed phishing pages and restored SEO rankings after Google penalty, implementing robust security measures.",
     image: "/gsc-phishing-pages-indexed.webp?height=300&width=400",
     tags: ["Cybersecurity", "SEO Recovery", "Server Administration"],
   },
