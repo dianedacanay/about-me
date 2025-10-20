@@ -35,19 +35,14 @@ const socialLinks = [
     label: "Email",
   },
   {
-    href: "https://pdf2quiz.dianedacanay.com/",
-    icon: FileUp,
-    label: "PDF to Quiz Maker",
-  },
-  {
     href: "https://art.dianedacanay.com/",
     icon: Brush,
     label: "Vision Board",
   },
   {
-    href: "https://ai.dianedacanay.com/",
+    href: "https://WWW.tulong.app/",
     icon: Bot,
-    label: "AI ART Prompt Generator",
+    label: "Tulong App",
   },
 ]
 
