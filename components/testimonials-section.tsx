@@ -5,7 +5,7 @@ const testimonials = [
   {
     id: 1,
     name: "Mike Navitsky",
-    role: "CEO | BASTION | Slovenia",
+    role: "CEO | BASTION | USA",
     avatar: "/mike-bastion.webp?height=80&width=80",
     content:
       "Diane's expertise in CRO and AI has transformed our business. She increased our ROAS from 0.8x to over 5x in just 3 months. Her data-driven approach and technical skills are unmatched.",
