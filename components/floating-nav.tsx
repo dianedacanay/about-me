@@ -20,7 +20,7 @@ const navItems = [
 
 const socialLinks = [
   {
-    href: "https://www.linkedin.com/in/dianedacanay",
+    href: "https://www.linkedin.com/in/",
     icon: Linkedin,
     label: "LinkedIn",
   },
