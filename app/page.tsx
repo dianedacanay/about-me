@@ -34,7 +34,7 @@ const fallbackSocialLinks = [
     sys: { id: "1" },
     fields: {
       platform: "LinkedIn",
-      url: "https://www.linkedin.com/in/dianedacanay",
+      url: "https://www.linkedin.com/in/",
       label: "LinkedIn",
       iconName: "linkedin",
     },
@@ -61,7 +61,7 @@ const fallbackSocialLinks = [
     sys: { id: "2" },
     fields: {
       platform: "Website",
-      url: "https://ai.dianedacanay.com",
+      url: "https://www.tulong.app",
       label: "My Latest Project",
       iconName: "www",
     },
