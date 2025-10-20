@@ -201,7 +201,8 @@ export default async function HomePage() {
       {/* Portfolio Section */}
       <PortfolioSection />
 
-      {/* Testimonials Section <TestimonialsSection /> */}
+      {/* Testimonials Section */}
+      <TestimonialsSection />
     </>
   )
 }
