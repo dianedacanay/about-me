@@ -17,7 +17,7 @@ const fallbackData = {
     "I launched my first website as a teenager during my college years. That's when I realized a hard truth: without traffic, accessible data, and a clear USP that solves real user problems, code becomes secondary. This realization sparked a deep dive — and a lifelong pursuit — into SEO, CRO, cybersecurity, and now, AI.",
   ],
   achievements: [
-    "Touch typing speed of 80-115 wpm",
+    "Touch typing speed of 70-115 wpm",
     "Dropped bounce rates from 80% to under 40%",
     "Increased conversions from 3% to 20%+",
     "Boosted ROAS from 0.8x to over 5x",
@@ -74,7 +74,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const title = seoSettings?.fields.metaTitle || "Diane Lim Dacanay | AI UX Engineer"
   const description =
     seoSettings?.fields.metaDescription ||
-    "AI UX Engineer with 13+ years experience in UX optimizations, data analytics, front-end development, cPanel server administration, malware removal, and AI-powered workflows."
+    "AI UX Engineer with 13+ years experience in UX Design Optimizations, data analytics, front-end development, cPanel server administration, malware removal, and AI-powered workflows."
 
   return {
     title,
@@ -202,7 +202,7 @@ export default async function HomePage() {
       <PortfolioSection />
 
       {/* Testimonials Section */}
-      {/* <TestimonialsSection /> */}
+      <TestimonialsSection />
     </>
   )
 }
